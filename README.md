@@ -2,13 +2,13 @@
 
 Based on [mousejack-tools](https://github.com/BastilleResearch/nrf-research-firmware)
 
-##Install
+## Install
   1. Clone [mousejack-tools](https://github.com/BastilleResearch/nrf-research-firmware)
   2. Copy `nrf24-dump.py` and `nrf24-replay.py` to `nrf-research-firmware/tools/`
 
-##Usage
+## Usage
 
-###nrf24-dump.py
+### nrf24-dump.py
 
 Dump wireless data to file
 
@@ -20,7 +20,7 @@ Example
 
 Dump data will save in `[address].json`
 
-###nrf24-replay.py
+### nrf24-replay.py
 
 Load dump file and make replay attack
 
